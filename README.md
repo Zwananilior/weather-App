@@ -17,4 +17,4 @@ npm run preview
 ```
 
 ## Deploy
-On Netlify: Build command `npm run build`, Publish directory `dist`.
+On Netlify: Build command `npm run dev`, Publish directory `dist`.
